@@ -1,9 +1,21 @@
+import styled from "@emotion/styled";
 import { RadioButtonGroup } from "./components/RadioButtonGroup";
+
+const SelectForm = styled.form`
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  background-color: gray;
+`;
 
 function App() {
   return (
     <>
-      <form action="">
+      <SelectForm>
         <h1>사자성어 연습 게임</h1>
         <RadioButtonGroup />
         <span>
@@ -12,7 +24,7 @@ function App() {
           <p>5부터 20까지의 숫자를 선택해주세요.</p>
         </span>
         <button type="submit">시작</button>
-      </form>
+      </SelectForm>
 
       <div>
         <span>사자성어 설명</span>
