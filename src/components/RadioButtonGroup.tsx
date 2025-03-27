@@ -30,9 +30,9 @@ export const RadioButtonGroup = () => {
       {["easy", "normal", "hard"].map((level) => (
         <StyledLabel key={level} checked={selected === level}>
           <input type="radio" name="level" value={level} className="a11y-hidden" checked={selected === level} onChange={() => setSelected(level)} />
-          {level === "easy" && "쉬움"}
-          {level === "normal" && "보통"}
-          {level === "hard" && "어려움"}
+          {level === "easy" && "초급"}
+          {level === "normal" && "중급"}
+          {level === "hard" && "고급"}
         </StyledLabel>
       ))}
     </RadioGroup>
