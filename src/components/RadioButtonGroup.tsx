@@ -28,12 +28,13 @@ export const RadioButtonGroup = () => {
   const [selected, setSelected] = useState("easy");
   return (
     <RadioGroup role="radiogroup" aria-label="난이도 선택">
-      {["easy", "normal", "hard"].map((level) => (
+      {["easy", "normal", "hard", "all"].map((level) => (
         <StyledLabel key={level} checked={selected === level}>
           <input type="radio" name="level" value={level} className="a11y-hidden" checked={selected === level} onChange={() => setSelected(level)} />
           {level === "easy" && "초급"}
           {level === "normal" && "중급"}
           {level === "hard" && "고급"}
+          {level === "all" && "혼합"}
         </StyledLabel>
       ))}
     </RadioGroup>
