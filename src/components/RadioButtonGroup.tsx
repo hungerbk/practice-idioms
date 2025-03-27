@@ -6,7 +6,7 @@ const RadioGroup = styled.div`
   gap: 12px;
 `;
 
-const StyledLabel = styled.label<{ checked: boolean }>`
+export const StyledLabel = styled.label<{ checked?: boolean }>`
   padding: 10px 16px;
   border: 2px solid ${({ checked, theme }) => (checked ? theme.colors.primary : theme.colors.gray001)};
   border-radius: 8px;
@@ -20,6 +20,7 @@ const StyledLabel = styled.label<{ checked: boolean }>`
   :focus {
     color: ${({ theme }) => theme.colors.gray001};
     background-color: ${({ theme }) => theme.colors.primary};
+    border-color: ${({ theme }) => theme.colors.primary};
   }
 `;
 
