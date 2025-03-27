@@ -1,22 +1,11 @@
+import { RadioButtonGroup } from "./components/RadioButtonGroup";
+
 function App() {
   return (
     <>
       <form action="">
         <h1>사자성어 연습 게임</h1>
-        <ul>
-          <li>
-            <label htmlFor="easy">초급</label>
-            <input type="radio" name="level" id="easy" value="easy" required />
-          </li>
-          <li>
-            <label htmlFor="normal">중급</label>
-            <input type="radio" name="level" id="normal" value="normal" />
-          </li>
-          <li>
-            <label htmlFor="hard">고급</label>
-            <input type="radio" name="level" id="hard" value="hard" />
-          </li>
-        </ul>
+        <RadioButtonGroup />
         <span>
           <label htmlFor="number-of-problem">문제 수</label>
           <input type="number" max={20} min={5} id="number-of-problem" required />
