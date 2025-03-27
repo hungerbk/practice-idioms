@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.app.tsbuildinfo",
+    "target": "ESNext",
+    "useDefineForClassFields": true,
+    "lib": ["ESNext", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
+    "skipLibCheck": true, // node_modules 속 타입 검사 생략, 빌드 속도 ↑
+    /* alias 설정 */
+    "baseUrl": ".", // alias를 위한 기본 경로
+    "paths": {
+      "@/*": ["src/*"]
+    },
+
+    /* Bundler mode */
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": true,
+    "isolatedModules": true, // Vite 사용 시 필수, 각 모듈을 독립적으로 처리
+    "moduleDetection": "force",
+    "noEmit": true,
+    "jsx": "react-jsx",
+
+    /* Linting */
+    "strict": true,
+    "noUnusedLocals": true, // 사용되지 않는 변수 경고
+    "noUnusedParameters": true, // 사용되지 않는 파라미터 경고
+    "noFallthroughCasesInSwitch": true, // switch fallthrough 금지
+    "noUncheckedSideEffectImports": true,
+    "forceConsistentCasingInFileNames": true // 대소문자 일관성 검사
+  },
+  "include": ["src"]
+}
