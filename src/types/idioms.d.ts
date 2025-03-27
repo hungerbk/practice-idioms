@@ -2,6 +2,8 @@ type Idiom = {
   id: number;
   word: string;
   meaning: string;
+  chineseCharacter: string;
+  level: number;
   x: number;
   y: number;
 };
