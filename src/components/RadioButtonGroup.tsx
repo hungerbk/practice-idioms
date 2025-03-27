@@ -8,18 +8,18 @@ const RadioGroup = styled.div`
 
 const StyledLabel = styled.label<{ checked: boolean }>`
   padding: 10px 16px;
-  border: 2px solid ${({ checked }) => (checked ? "#ffe4c4" : "#ccc")};
+  border: 2px solid ${({ checked, theme }) => (checked ? theme.colors.primary : theme.colors.gray001)};
   border-radius: 8px;
-  background-color: ${({ checked }) => (checked ? "#ffe4c4" : "white")};
-  color: #333;
+  background-color: ${({ checked, theme }) => (checked ? theme.colors.primary : "white")};
+  color: ${({ theme }) => theme.colors.black001};
   font-weight: 500;
   cursor: pointer;
   transition: all 0.2s ease;
 
   :hover,
   :focus {
-    color: #ccc;
-    background-color: #ffefdc;
+    color: ${({ theme }) => theme.colors.gray001};
+    background-color: ${({ theme }) => theme.colors.primary};
   }
 `;
 
