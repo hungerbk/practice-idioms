@@ -1,5 +1,5 @@
 import styled from "@emotion/styled";
-import { RadioButtonGroup } from "./components/RadioButtonGroup";
+import { RadioButtonGroup, StyledLabel } from "./components/RadioButtonGroup";
 
 const SelectForm = styled.form`
   width: 100vw;
@@ -9,11 +9,16 @@ const SelectForm = styled.form`
   justify-content: center;
   align-items: center;
   gap: 2rem;
-  background-color: gray;
+
+  button {
+    width: 30%;
+    font-size: 18px;
+  }
 `;
 
+const SubmitButton = StyledLabel.withComponent("button");
 const SelectSpan = styled.span`
-  width: 50%;
+  width: 30%;
   display: flex;
   flex-flow: column nowrap;
   gap: 0.5rem;
@@ -46,7 +51,7 @@ function App() {
           <input type="number" max={20} min={5} id="number-of-problem" placeholder="문제 수를 입력해 주세요" required />
           <p>* 5부터 20까지의 숫자를 입력해주세요.</p>
         </SelectSpan>
-        <button type="submit">시작</button>
+        <SubmitButton type="submit">시작!</SubmitButton>
       </SelectForm>
 
       <div>
