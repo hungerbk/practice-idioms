@@ -1,4 +1,4 @@
-import SelectForm from "./components/SelectForm";
+import SelectForm from "@/components/SelectForm";
 
 function App() {
   return (

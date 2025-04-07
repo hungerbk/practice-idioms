@@ -1,5 +1,5 @@
+import { RadioButtonGroup, StyledLabel } from "@/components/RadioButtonGroup";
 import styled from "@emotion/styled";
-import { RadioButtonGroup, StyledLabel } from "./RadioButtonGroup";
 
 const StyledSelectForm = styled.form`
   width: 100vw;
