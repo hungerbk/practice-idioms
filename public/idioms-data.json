@@ -1,0 +1,1382 @@
+[
+  {
+    "word": "동병상련",
+    "chineseCharacter": "同病相憐",
+    "meaning": "같은 병자끼리 가엾게 여긴다는 뜻으로, 어려운 처지에 있는 사람끼리 서로 불쌍히 여겨 동정 하고 서로 도움",
+    "level": 1
+  },
+  {
+    "word": "설상가상",
+    "chineseCharacter": "雪上加霜",
+    "meaning": "눈 위에 또 서리가 내린다는 뜻으로, 어려운 일이 겹침을 이름 또는 ‘환난이 거듭됨’을 비유하여 이르는 말",
+    "level": 1
+  },
+  {
+    "word": "유유상종",
+    "chineseCharacter": "類類相從",
+    "meaning": "사물은 같은 무리끼리 따르고, 같은 사람은 서로 찾아 모인다는 뜻",
+    "level": 1
+  },
+  {
+    "word": "이열치열",
+    "chineseCharacter": "以熱治熱",
+    "meaning": "열은 열로써 다스린다는 뜻으로, 힘으로 또는 강한 것에는 강한 것으로 상대함을 이르는 말",
+    "level": 1
+  },
+  {
+    "word": "초록동색",
+    "chineseCharacter": "草綠同色",
+    "meaning": "풀빛과 녹색은 같은 빛깔이란 뜻으로, 같은 처지의 사람과 어울리거나 기우는 것",
+    "level": 1
+  },
+  {
+    "word": "상전벽해",
+    "chineseCharacter": "桑田碧海",
+    "meaning": "뽕나무밭이 푸른 바다가 되었다라는 뜻으로, 세상이 몰라 볼 정도로 바뀐 것. 세상의 모든 일 이 엄청나게 변해버린 것",
+    "level": 2
+  },
+  {
+    "word": "전화위복",
+    "chineseCharacter": "轉禍爲福",
+    "meaning": "화가 바뀌어 오히려 복이 된다는 뜻으로, 어떤 불행한 일이라도 끊임없는 노력과 강인한 의지로 힘쓰면 불행을 행복으로 바꾸어 놓을 수 있다는 말",
+    "level": 1
+  },
+  {
+    "word": "가렴주구",
+    "chineseCharacter": "苛斂誅求",
+    "meaning": "가혹하게 세금을 거두거나 백성의 재물을 억지로 뺏음",
+    "level": 2
+  },
+  {
+    "word": "자중지란",
+    "chineseCharacter": "自中之亂",
+    "meaning": "같은 패 안에서 일어나는 싸움",
+    "level": 2
+  },
+  {
+    "word": "부화뇌동",
+    "chineseCharacter": "附和雷同",
+    "meaning": "우레 소리에 맞춰 함께한다는 뜻으로, 자신의 뚜렷한 소신 없이 그저 남이 하는 대로 따라가는 것을 의미함",
+    "level": 2
+  },
+  {
+    "word": "오리무중",
+    "chineseCharacter": "五里霧中",
+    "meaning": "무슨 일에 대하여 방향이나 상황을 알 길이 없음, 일의 갈피를 잡기 어려움",
+    "level": 2
+  },
+  {
+    "word": "암중모색",
+    "chineseCharacter": "暗中摸索",
+    "meaning": "어둠 속에서 손을 더듬어 찾는다라는 뜻으로, 어림짐작으로 사물을 알아내려 함을 이르는 말",
+    "level": 2
+  },
+  {
+    "word": "점입가경",
+    "chineseCharacter": "漸入佳境",
+    "meaning": "가면 갈수록 경치가 더해진다는 뜻으로, 일이 점점 더 재미있는 지경으로 돌아가는 것을 비유 하는 말로 쓰임",
+    "level": 2
+  },
+  {
+    "word": "과대망상",
+    "chineseCharacter": "誇大妄想",
+    "meaning": "턱없이 과장하여 엉뚱하게 생각함",
+    "level": 1
+  },
+  {
+    "word": "기고만장",
+    "chineseCharacter": "氣高萬丈",
+    "meaning": "일이 뜻대로 되어 나가 씩씩한 기운이 대단하게 뻗침",
+    "level": 2
+  },
+  {
+    "word": "구우일모",
+    "chineseCharacter": "九牛一毛",
+    "meaning": "아홉 마리 소에 털 한가닥이 빠진 정도라는 뜻으로, 아주 큰 물건 속에 있는 아주 작은 물건, 대단히 많은 것 중의 아주 적은 것의 비유",
+    "level": 2
+  },
+  {
+    "word": "능소능대",
+    "chineseCharacter": "能小能大",
+    "meaning": "큰 일이나 작은 일이나 임기응변으로 잘 처리 해냄",
+    "level": 2
+  },
+  {
+    "word": "침소봉대",
+    "chineseCharacter": "針小棒大",
+    "meaning": "바늘 만한 것을 몽둥이 만하다고 말함이란 뜻으로, 작은 일을 크게 과장하여 말함",
+    "level": 2
+  },
+  {
+    "word": "일진일퇴",
+    "chineseCharacter": "一進一退",
+    "meaning": "한 번 나아감과 물러섬, 좋아졌다 나빠졌다함",
+    "level": 2
+  },
+  {
+    "word": "갑론을박",
+    "chineseCharacter": "甲論乙駁",
+    "meaning": "갑이 논하면 을이 논박한다는 뜻으로, 서로 논란하고 반박함을 이르는 말",
+    "level": 2
+  },
+  {
+    "word": "양자택일",
+    "chineseCharacter": "兩者擇一",
+    "meaning": "둘 중에서 하나를 선택함",
+    "level": 2
+  },
+  {
+    "word": "탁상공론",
+    "chineseCharacter": "卓上空論",
+    "meaning": "탁자 위에서만 펼치는 헛된 논설이란 뜻으로, 실현성이 없는 허황된 이론을 일컬음",
+    "level": 2
+  },
+  {
+    "word": "마이동풍",
+    "chineseCharacter": "馬耳東風",
+    "meaning": "남의 비평이나 의견을 조금도 귀담아 듣지 아니하고 흘려버림을 이름",
+    "level": 2
+  },
+  {
+    "word": "막무가내",
+    "chineseCharacter": "莫無可奈",
+    "meaning": "도무지 어찌할 수 없음, 고집이 너무 세거나 무조건 자기 주장만 내세우는 경우",
+    "level": 2
+  },
+  {
+    "word": "함구무언",
+    "chineseCharacter": "緘口無言",
+    "meaning": "입을 다물고 아무런 말이 없음",
+    "level": 2
+  },
+  {
+    "word": "청출어람",
+    "chineseCharacter": "靑出於藍",
+    "meaning": "제자가 스승보다 나은 것을 비유하는 말",
+    "level": 1
+  },
+  {
+    "word": "개과천선",
+    "chineseCharacter": "改過遷善",
+    "meaning": "지난날의 잘못을 고치어 착하게 됨",
+    "level": 1
+  },
+  {
+    "word": "백년대계",
+    "chineseCharacter": "百年大計",
+    "meaning": "먼 앞날까지 내다보고 먼 뒷날까지 걸쳐 세우는 큰 계획",
+    "level": 2
+  },
+  {
+    "word": "고식지계",
+    "chineseCharacter": "姑息之計",
+    "meaning": "근본 해결책이 아닌 임시로 편한 것을 취하는 계책, 당장의 편안함만을 꾀하는 일시적인 방편",
+    "level": 2
+  },
+  {
+    "word": "공평무사",
+    "chineseCharacter": "公平無私",
+    "meaning": "어느 쪽에도 치우치지 않아 공평하고 사사로움이 없음",
+    "level": 2
+  },
+  {
+    "word": "동문서답",
+    "chineseCharacter": "東問西答",
+    "meaning": "동쪽을 붇는 데 서쪽을 대답한다는 뜻으로, 묻는 말에 대하여 전혀 엉뚱한 대답",
+    "level": 1
+  },
+  {
+    "word": "천재일우",
+    "chineseCharacter": "千載一遇",
+    "meaning": "천 년에 한 번 만날 정도로, 좀처럼 얻기 어려운 좋은 기회를 이름",
+    "level": 2
+  },
+  {
+    "word": "백년하청",
+    "chineseCharacter": "百年河淸",
+    "meaning": "백 년을 기다린다 해도 황하의 흐린 물은 맑아지지 않는다는 뜻으로, 오랫동안 기다려도 바라 는 것이 이루어질 수 없음을 이르는 말",
+    "level": 3
+  },
+  {
+    "word": "온고지신",
+    "chineseCharacter": "溫故知新",
+    "meaning": "옛것을 익히고 그것을 미루어서 새로운 것을 앎. 온고이지신과 같은 의미",
+    "level": 2
+  },
+  {
+    "word": "일장춘몽",
+    "chineseCharacter": "一場春夢",
+    "meaning": "인생의 허무함을 한바탕의 봄꿈에 비유하여 이르는 말",
+    "level": 2
+  },
+  {
+    "word": "결초보은",
+    "chineseCharacter": "結草報恩",
+    "meaning": "무슨 짓을 하여서든지 잊지 않고 은혜에 보답함",
+    "level": 2
+  },
+  {
+    "word": "흥진비래",
+    "chineseCharacter": "興盡悲來",
+    "meaning": "즐거운 일이 지나가면 슬픈 일이 닥쳐온다는 뜻",
+    "level": 2
+  },
+  {
+    "word": "회자정리",
+    "chineseCharacter": "會者定離",
+    "meaning": "만나면 언젠가는 헤어지게 되어 있다는 뜻",
+    "level": 3
+  },
+  {
+    "word": "안빈낙도",
+    "chineseCharacter": "安貧樂道",
+    "meaning": "구차하고 궁색하면서도 그것에 구속되지 않고 평안하게 즐기는 마음으로 살아감, 가난에 구 애받지 않고 도를 즐김",
+    "level": 2
+  },
+  {
+    "word": "반신반의",
+    "chineseCharacter": "半信半疑",
+    "meaning": "믿으면서도 한편으로는 의심함",
+    "level": 2
+  },
+  {
+    "word": "자격지심",
+    "chineseCharacter": "自激之心",
+    "meaning": "자기가 일을 해놓고 그 일에 대하여 스스로 미흡하게 여기는 마음",
+    "level": 1
+  },
+  {
+    "word": "안분지족",
+    "chineseCharacter": "安分知足",
+    "meaning": "자기 분수에 만족하여 다른데 마음을 두지 아니함",
+    "level": 2
+  },
+  {
+    "word": "면종복배",
+    "chineseCharacter": "面從腹背",
+    "meaning": "겉으로는 순종하는 체하고 속으로는 딴 마음을 먹음",
+    "level": 3
+  },
+  {
+    "word": "견강부회",
+    "chineseCharacter": "牽强附會",
+    "meaning": "이치에 맞지 않는 말을 억지로 끌어 붙여 자기의 주장에 맞도록 함",
+    "level": 3
+  },
+  {
+    "word": "천양지차",
+    "chineseCharacter": "天壤之差",
+    "meaning": "하늘과 땅 사이만큼 엄청난 차이",
+    "level": 2
+  },
+  {
+    "word": "각골지통",
+    "chineseCharacter": "刻骨之痛",
+    "meaning": "뼈를 깎는 아픔",
+    "level": 1
+  },
+  {
+    "word": "고진감래",
+    "chineseCharacter": "苦盡甘來",
+    "meaning": "‘쓴 것이 다 하면 단 것이 온다.’라는 뜻으로, 고생 끝에 낙이 온다는 뜻",
+    "level": 1
+  },
+  {
+    "word": "유일무이",
+    "chineseCharacter": "唯一無二",
+    "meaning": "둘이 아니고 오직 하나, 단 하나밖에 없다는 뜻",
+    "level": 1
+  },
+  {
+    "word": "진퇴유곡",
+    "chineseCharacter": "進退維谷",
+    "meaning": "앞으로도 뒤로도 나아가거나 물러서지 못한다는 뜻",
+    "level": 2
+  },
+  {
+    "word": "절차탁마",
+    "chineseCharacter": "切磋琢磨",
+    "meaning": "학문이나 인격을 갈고 닦음",
+    "level": 2
+  },
+  {
+    "word": "전인미답",
+    "chineseCharacter": "全人未踏",
+    "meaning": "지금까지 아무도 손을 대거나 발을 디딘 일이 없음",
+    "level": 2
+  },
+  {
+    "word": "호구지책",
+    "chineseCharacter": "糊口之策",
+    "meaning": "입에 풀칠하듯이 겨우 먹고 살아가는 방책",
+    "level": 3
+  },
+  {
+    "word": "후안무치",
+    "chineseCharacter": "厚顔無恥",
+    "meaning": "뻔뻔스러워 부끄러워 할 줄을 모름",
+    "level": 2
+  },
+  {
+    "word": "절치부심",
+    "chineseCharacter": "切齒腐心",
+    "meaning": "이를 갈고 마음을 썩힌다는 뜻으로, 대단히 분하게 여기고 마음을 썩임",
+    "level": 2
+  },
+  {
+    "word": "무위도식",
+    "chineseCharacter": "無爲徒食",
+    "meaning": "하는 일 없이 헛되이 먹기만 함",
+    "level": 2
+  },
+  {
+    "word": "풍찬노숙",
+    "chineseCharacter": "風餐露宿",
+    "meaning": "떠돌아다니며 고생스러운 생활을 함을 비유하는 말",
+    "level": 2
+  },
+  {
+    "word": "비분강개",
+    "chineseCharacter": "悲憤慷慨",
+    "meaning": "슬프고 분한 느낌이 마음에 가득 차 있음",
+    "level": 2
+  },
+  {
+    "word": "맥수지탄",
+    "chineseCharacter": "麥秀之嘆",
+    "meaning": "고국의 멸망을 안타까워함",
+    "level": 2
+  },
+  {
+    "word": "망양지탄",
+    "chineseCharacter": "亡羊之歎",
+    "meaning": "달아난 양을 찾다 여러갈래의 길 앞에서 길을 잃었다는 의미. 방침이 많아 할 바를 모르게 됨",
+    "level": 2
+  },
+  {
+    "word": "후생가외",
+    "chineseCharacter": "後生可畏",
+    "meaning": "뒤에 난 사람은 두려워할 만하다는 뜻으로, 후배는 나이가 젊고 의기가 장하므로 학문을 계속  쌓고 덕을 닦으면 그 진보는 선배를 능가하는 경지에 이를 것이라는 말.",
+    "level": 2
+  },
+  {
+    "word": "후회막급",
+    "chineseCharacter": "後悔莫及",
+    "meaning": "이미 잘못된 뒤에 아무리 후회하여도 어찌할 수가 없음",
+    "level": 2
+  },
+  {
+    "word": "온고지신",
+    "chineseCharacter": "溫故知新",
+    "meaning": "옛것을 익히고 그것을 미루어서 새로운 것을 앎. 온고이지신(溫故而知新)과 같은 의미",
+    "level": 2
+  },
+  {
+    "word": "다다익선",
+    "chineseCharacter": "多多益善",
+    "meaning": "많으면 많을수록 더욱 좋다",
+    "level": 2
+  },
+  {
+    "word": "연목구어",
+    "chineseCharacter": "緣木求魚",
+    "meaning": "나무에서 물고기를 구한다는 의미로, 목적과 수단이 일치하지 않아 성공이 불가능함",
+    "level": 3
+  },
+  {
+    "word": "일거양득",
+    "chineseCharacter": "一擧兩得",
+    "meaning": "한가지의 일로 두가지의 이득을 보는 것",
+    "level": 2
+  },
+  {
+    "word": "동상이몽",
+    "chineseCharacter": "同床異夢",
+    "meaning": "같이 행동하면서 속으로는 다른 생각을 하는 것",
+    "level": 2
+  },
+  {
+    "word": "화룡점정",
+    "chineseCharacter": "畵龍點睛",
+    "meaning": "용을 그린 다음 마지막으로 눈동자를 그린다는 뜻으로 가장 요긴한 부분을 마치어 일을 끝냄 을 이르는 말",
+    "level": 2
+  },
+  {
+    "word": "절치부심",
+    "chineseCharacter": "切齒腐心",
+    "meaning": "이를 갈고 마음을 썩히다는 뜻으로, 대ㄹ단히 분(憤)하게 여기고 마음을 썩임",
+    "level": 2
+  },
+  {
+    "word": "요지부동",
+    "chineseCharacter": "搖之不動",
+    "meaning": "흔들어도 꿈적도 하지 않음",
+    "level": 2
+  },
+  {
+    "word": "오불관언",
+    "chineseCharacter": "吾不關焉",
+    "meaning": "나는 관여하지 않는다. 즉 어떤 일에 상관하지 않고 모른 체함",
+    "level": 2
+  },
+  {
+    "word": "삼고초려",
+    "chineseCharacter": "三顧草廬",
+    "meaning": "초가집을 세 번 찾아감. 훌륭한 인물을 모시기 위해 최선을 다하는 모습",
+    "level": 2
+  },
+  {
+    "word": "노심초사",
+    "chineseCharacter": "勞心焦思",
+    "meaning": "몹시 마음을 쓰며 애를 태움",
+    "level": 2
+  },
+  {
+    "word": "유구무언",
+    "chineseCharacter": "有口無言",
+    "meaning": "입은 있으나 할 말이 없음. 잘못이 분명해 변명하거나 해명할 길이 없음",
+    "level": 1
+  },
+  {
+    "word": "지기지우",
+    "chineseCharacter": "知己之友",
+    "meaning": "소리를 알아듣는다는 뜻으로 자기의 속마음을 알아주는 친구를 이르는 말",
+    "level": 2
+  },
+  {
+    "word": "오월동주",
+    "chineseCharacter": "吳越同舟",
+    "meaning": "서로 미워하면서도 공통의 어려움이나 이해에 대해서는 협력하는 경우를 비유하는 말",
+    "level": 2
+  },
+  {
+    "word": "근묵자흑",
+    "chineseCharacter": "近墨者黑",
+    "meaning": "먹을 가까이 하다 보면 자신도 모르게 검어진다는 뜻. 사람도 주위 환경에 따라 변할 수 있음",
+    "level": 2
+  },
+  {
+    "word": "동상이몽",
+    "chineseCharacter": "同床異夢",
+    "meaning": "같은 침대에서 자면서 다른 꿈을 꿈. 즉 겉으로는 같은 입장인 듯하지만 실제로는 의견이나 주 장이 다른 사이",
+    "level": 2
+  },
+  {
+    "word": "순망치한",
+    "chineseCharacter": "脣亡齒寒",
+    "meaning": "입술이 없으면 이가 시리다는 말로 서로 떨어질 수 없는 밀접한 관계",
+    "level": 2
+  },
+  {
+    "word": "이구동성",
+    "chineseCharacter": "異口同聲",
+    "meaning": "입은 다르지만 하는 말은 같다는 뜻으로, 여러 사람의 말이 한결같음",
+    "level": 2
+  },
+  {
+    "word": "설왕설래",
+    "chineseCharacter": "說往說來",
+    "meaning": "말들이 왔다 갔다 함. 즉 의견이나 입장이 달라 말로 옥신각신하는 모습",
+    "level": 2
+  },
+  {
+    "word": "중구난방",
+    "chineseCharacter": "衆口難防",
+    "meaning": "여러 사람이 각기 말하는 의견이 봇물 터지듯 쏟아져 나옴",
+    "level": 2
+  },
+  {
+    "word": "이심전심",
+    "chineseCharacter": "以心傳心",
+    "meaning": "마음과 마음으로 서로 뜻이 통함. 문자나 언어 없이 남을 깨닫게 한다는 말",
+    "level": 1
+  },
+  {
+    "word": "기호지세",
+    "chineseCharacter": "騎虎之勢",
+    "meaning": "범에 올라탄 기세. 즉 이미 시작한 일이라 도중에 그만둘 수 없는 상황",
+    "level": 2
+  },
+  {
+    "word": "고립무원",
+    "chineseCharacter": "孤立無援",
+    "meaning": "아무런 도움도 받지 못한 채 홀로 외로이 서 있음",
+    "level": 2
+  },
+  {
+    "word": "혈혈단신",
+    "chineseCharacter": "孑孑單身",
+    "meaning": "의지할 데라곤 없이 오직 자신뿐인 외롭고 고독한 사람.",
+    "level": 2
+  },
+  {
+    "word": "사고무친",
+    "chineseCharacter": "四顧無親",
+    "meaning": "사방을 둘러 봐도 의지할만한 사람이 도무지 없다는 뜻",
+    "level": 2
+  },
+  {
+    "word": "진퇴유곡",
+    "chineseCharacter": "進退維谷",
+    "meaning": "앞으로도 뒤로도 나아가거나 물러서지 못하다라는 뜻으로, 궁지(窮地)에 빠진 상태",
+    "level": 2
+  },
+  {
+    "word": "일벌백계",
+    "chineseCharacter": "一罰百戒",
+    "meaning": "한 사람을 벌줌으로써, 만인에게 경계가 되도록 한다는 뜻.",
+    "level": 2
+  },
+  {
+    "word": "유구무언",
+    "chineseCharacter": "有口無言",
+    "meaning": "입은 있으나 할 말이 없음. 잘못이 분명해 변명하거나 해명할 길이 없음.",
+    "level": 1
+  },
+  {
+    "word": "청천벽력",
+    "chineseCharacter": "靑天霹靂",
+    "meaning": "맑게 갠 하늘에서 갑자기 떨어지는 벼락이라는 뜻으로, 돌발적인 사태나 사변을 이르는 말",
+    "level": 2
+  },
+  {
+    "word": "토사구팽",
+    "chineseCharacter": "兎死狗烹",
+    "meaning": "토끼가 죽으면 사냥개는 잡혀서 삶아진다는 뜻. 목적을 달성하고 나면 그 목적에 이용된 도구 나 사람은 무용하게 되어 배척되거나 제거된다는 의미.",
+    "level": 2
+  },
+  {
+    "word": "비분강개",
+    "chineseCharacter": "悲憤慷慨",
+    "meaning": "의롭지 못한 일이나 잘못되어 가는 세태가 슬프고 분하여 마음이 북받침",
+    "level": 2
+  },
+  {
+    "word": "목불인견",
+    "chineseCharacter": "目不忍見",
+    "meaning": "눈으로 볼 수 없을 정도로 비참하거나 안타까운 모습",
+    "level": 2
+  },
+  {
+    "word": "수수방관",
+    "chineseCharacter": "袖手傍觀",
+    "meaning": "소매에 손을 넣고 곁에서 보기만 한다는 뜻으로 관여하지 않고 그대로 내버려두는 것을 뜻함",
+    "level": 2
+  },
+  {
+    "word": "각골통한",
+    "chineseCharacter": "刻骨痛恨",
+    "meaning": "뼈에 새겨 놓을 만큼 잊을 수 없고 고통스러운 원한.",
+    "level": 2
+  },
+  {
+    "word": "기사회생",
+    "chineseCharacter": "起死回生",
+    "meaning": "죽을 고비에서 벗어나 다시 살아남.",
+    "level": 2
+  },
+  {
+    "word": "표리부동",
+    "chineseCharacter": "表裏不同",
+    "meaning": "겉과 안이 같지 않음. 즉 겉과 속이 다른 음흉한 품성.",
+    "level": 2
+  },
+  {
+    "word": "경거망동",
+    "chineseCharacter": "輕擧妄動",
+    "meaning": "가볍고 망령되게 행동한다는 뜻",
+    "level": 2
+  },
+  {
+    "word": "호가호위",
+    "chineseCharacter": "狐假虎威",
+    "meaning": "여우가 호랑이의 위세를 빌리다는 뜻으로, 남의 권세를 빌려 허세를 부림을 이르는 말",
+    "level": 2
+  },
+  {
+    "word": "방약무인",
+    "chineseCharacter": "傍若無人",
+    "meaning": "곁에 사람이 없는 것처럼 행동함. 즉 주위 사람을 의식하지 않고 제멋대로 행동하는 것.",
+    "level": 2
+  },
+  {
+    "word": "감탄고토",
+    "chineseCharacter": "甘呑苦吐",
+    "meaning": "달면 삼키고 쓰면 뱉는다는 뜻. 자기 비위에 맞으면 좋아하고 맞지 않으면 싫어한다는 의미",
+    "level": 1
+  },
+  {
+    "word": "선견지명",
+    "chineseCharacter": "先見之明",
+    "meaning": "미래에 전개될 일을 남보다 먼저 예견하는 총명함",
+    "level": 2
+  },
+  {
+    "word": "노심초사",
+    "chineseCharacter": "勞心焦思",
+    "meaning": "몹시 마음을 쓰며 애를 태움",
+    "level": 2
+  },
+  {
+    "word": "식자우환",
+    "chineseCharacter": "識字憂患",
+    "meaning": "글자를 아는 것이 걱정을 끼친다는 말. 너무 많이 알기에 쓸데없는 걱정도 그만큼 많다는 뜻",
+    "level": 2
+  },
+  {
+    "word": "시시비비",
+    "chineseCharacter": "是是非非",
+    "meaning": "옳고 그름을 알아보는 것",
+    "level": 2
+  },
+  {
+    "word": "동가홍상",
+    "chineseCharacter": "同價紅裳",
+    "meaning": "같은 값이면 다홍치마. 기왕에 같은 조건이면 보기 좋은 것을 골라 가진다",
+    "level": 2
+  },
+  {
+    "word": "동문서답",
+    "chineseCharacter": "東問西答",
+    "meaning": "동쪽에서 묻자 서쪽에서 답한다. 즉 질문에 대해 엉뚱한 대답을 늘어놓음",
+    "level": 2
+  },
+  {
+    "word": "동분서주",
+    "chineseCharacter": "東奔西走",
+    "meaning": "동쪽으로 뛰고 서쪽으로 뛴다는 뜻으로, 이리저리 몹시 바쁘게 돌아다님",
+    "level": 2
+  },
+  {
+    "word": "동상이몽",
+    "chineseCharacter": "同床異夢",
+    "meaning": "한자리에 자면서 꿈을 다르게 꾼다. 겉으로는 같이 행동하면서도, 속으로는 딴 생각을 함.",
+    "level": 2
+  },
+  {
+    "word": "이왕지사",
+    "chineseCharacter": "已往之事",
+    "meaning": "이미 지나간 일.",
+    "level": 2
+  },
+  {
+    "word": "자포자기",
+    "chineseCharacter": "自暴自棄",
+    "meaning": "절망에 빠져 자기 자신을 학대하며 돌아보지 않음.",
+    "level": 2
+  },
+  {
+    "word": "만시지탄",
+    "chineseCharacter": "晩時之歎",
+    "meaning": "때늦은 탄식. 이미 기회를 잃은 후 한탄하는 모습.",
+    "level": 2
+  },
+  {
+    "word": "새옹지마",
+    "chineseCharacter": "塞翁之馬",
+    "meaning": "인생에 있어서의 吉凶禍福(길흉화복)은 항상 바뀌어 미리 헤아릴 수가 없다는 말.",
+    "level": 2
+  },
+  {
+    "word": "허장성세",
+    "chineseCharacter": "虛張聲勢",
+    "meaning": "비어 있고 과장된 형세로 소리를 낸다는 뜻으로, 실력이 없으면서 허세를 부리는 것",
+    "level": 3
+  },
+  {
+    "word": "수주대토",
+    "chineseCharacter": "守株待兎",
+    "meaning": "나무 그루터기를 지키며 토끼를 기다린다는 뜻으로, 실효성 없는 기대는 공연히 시간만 허비 하고, 우연한 행운 또는 불로소득을 기대하는 어리석음",
+    "level": 2
+  },
+  {
+    "word": "안하무인",
+    "chineseCharacter": "眼下無人",
+    "meaning": "눈 아래에 사람이 없다는 뜻으로, 사람됨이 교만하여 남을 업신여김을 이르는 말",
+    "level": 2
+  },
+  {
+    "word": "천려일실",
+    "chineseCharacter": "千慮一失",
+    "meaning": "천 가지 생각 가운데 한 가지 실책이란 뜻으로, 아무리 지혜롭다 하더라도 생각을 많이 하다보 면 하나쯤 실수가 있게 마련",
+    "level": 2
+  },
+  {
+    "word": "자가당착",
+    "chineseCharacter": "自家撞着",
+    "meaning": "스스로 부딪치기도 하고 붙기도 함. 한 사람의 말과 행동이 서로 앞뒤가 맞지 않는 모습",
+    "level": 2
+  },
+  {
+    "word": "사면초가",
+    "chineseCharacter": "四面楚歌",
+    "meaning": "사방에서 들려오는 초나라 노래라는 뜻으로, 적에게 포위되거나 몹시 어려운 일을 당하여 극 복할 방법이 전혀 없는 곤경",
+    "level": 2
+  },
+  {
+    "word": "기사회생",
+    "chineseCharacter": "起死回生",
+    "meaning": "죽거나 졌다고 생각하는 순간 다시 힘을 내 새롭게 일어서는 모습",
+    "level": 2
+  },
+  {
+    "word": "삼십육계",
+    "chineseCharacter": "三十六計",
+    "meaning": "도망가야 할 때에는 기회를 보고 무조건 도망을 쳐서 몸을 안전하게 하는 일이 병법상의 최상 책이라는 뜻",
+    "level": 2
+  },
+  {
+    "word": "혼비백산",
+    "chineseCharacter": "魂飛魄散",
+    "meaning": "넋이 날아가고 넋이 흩어지다라는 뜻으로, 몹시 놀라 어찌할 바를 모름",
+    "level": 2
+  },
+  {
+    "word": "이란투석",
+    "chineseCharacter": "以卵投石",
+    "meaning": "계란으로 바위 치기. 약한 것으로 강한 것에게 덤비다. 무모하고 어리석은 행동을 비유한 것",
+    "level": 2
+  },
+  {
+    "word": "두문불출",
+    "chineseCharacter": "杜門不出",
+    "meaning": "문을 닫고 밖으로 나가지 않음. 즉 집에만 박혀 있으면서 결코 바깥출입을 하지 않는 모습",
+    "level": 2
+  },
+  {
+    "word": "가인박명",
+    "chineseCharacter": "佳人薄命",
+    "meaning": "아름다운 여인은 목숨이 짧다.",
+    "level": 2
+  },
+  {
+    "word": "일편단심",
+    "chineseCharacter": "一片丹心",
+    "meaning": "한 조각의 붉은 마음. 즉 결코 변하지 않을 충성되고 참된 마음.",
+    "level": 1
+  },
+  {
+    "word": "독야청청",
+    "chineseCharacter": "獨也靑靑",
+    "meaning": "모든 것이 변해도 결코 변하지 않으며 제 모습을 지키는 굳은 절개를 가리키는 말",
+    "level": 2
+  },
+  {
+    "word": "수구초심",
+    "chineseCharacter": "首丘初心",
+    "meaning": "'여우가 죽을 때 제가 살던 언덕으로 머리를 둔다.'는 뜻. 고향이나 근본을 잊지 않는다는 의미",
+    "level": 2
+  },
+  {
+    "word": "오월동주",
+    "chineseCharacter": "吳越同舟",
+    "meaning": "서로 미워하면서도 공통의 어려움이나 이해에 대해서는 협력하는 경우를 비유하는 말.",
+    "level": 2
+  },
+  {
+    "word": "환골탈태",
+    "chineseCharacter": "換骨奪胎",
+    "meaning": "뼈를 바꾸고 태를 빼낸다는 뜻으로 몸과 얼굴이 몰라볼 만큼 좋게 변한 것을 비유하는 말.",
+    "level": 2
+  },
+  {
+    "word": "온고지신",
+    "chineseCharacter": "溫故知新",
+    "meaning": "지나간 과거로부터 미래를 준비하는 깨달음을 얻는다는 말",
+    "level": 2
+  },
+  {
+    "word": "괄목상대",
+    "chineseCharacter": "刮目相對",
+    "meaning": "눈을 비비고 상대를 대한다는 뜻으로, 학식이나 재주가 놀라운 정도로 부쩍 향상되었다는 뜻",
+    "level": 2
+  },
+  {
+    "word": "권불십년",
+    "chineseCharacter": "權不十年",
+    "meaning": "아무리 막강한 권력도 10년 못 간다는 말인데, 꼭 10년이 아니라 영원할 것 같지만 오래 가지  못해 결국은 무너진다는 의미",
+    "level": 2
+  },
+  {
+    "word": "동상이몽",
+    "chineseCharacter": "同床異夢",
+    "meaning": "같은 침대에서 자면서 다른 꿈을 꿈. 즉 겉으로는 같은 입장인 듯하지만 실제로는 의견이나 주 장이 다른 사이",
+    "level": 2
+  },
+  {
+    "word": "내우외환",
+    "chineseCharacter": "內憂外患",
+    "meaning": "'내부에서 일어나는 근심과 외부로부터 받는 근심'이란 뜻으로, 나라 안팎의 여러 가지 근심  걱정을 이르는 말",
+    "level": 2
+  },
+  {
+    "word": "명재경각",
+    "chineseCharacter": "命在頃刻",
+    "meaning": "목숨이 경각에 달려 있음. 즉 목숨이 눈 깜짝할 동안에 사라질 수도 있는 위험한 상황.",
+    "level": 3
+  },
+  {
+    "word": "사고무친",
+    "chineseCharacter": "四顧無親",
+    "meaning": "사방을 돌아봐도 친한 이가 없다. 의지할 데가 없이 외롭고 고단한 상태",
+    "level": 2
+  },
+  {
+    "word": "각골통한",
+    "chineseCharacter": "刻骨痛恨",
+    "meaning": "뼈에 새겨 놓을 만큼 잊을 수 없고 고통스러운 원한.",
+    "level": 2
+  },
+  {
+    "word": "물아일체",
+    "chineseCharacter": "物我一體",
+    "meaning": "'자연물과 자아가 하나가 된다.'는 뜻으로, 대상에 완전히 몰입된 경지",
+    "level": 2
+  },
+  {
+    "word": "진퇴양난",
+    "chineseCharacter": "進退兩難",
+    "meaning": "나아가기도 물러서기도 둘 다 어렵다. 이러기도 저러기도 어려워 입장이 곤란한 상태.",
+    "level": 2
+  },
+  {
+    "word": "천우신조",
+    "chineseCharacter": "天佑神助",
+    "meaning": "도저히 이루어질 수 없다고 여긴 일이 이루어지거나, 힘든 상황에서 극적으로 벗어나는 경우",
+    "level": 2
+  },
+  {
+    "word": "백척간두",
+    "chineseCharacter": "百尺竿頭",
+    "meaning": "백 척 장대의 꼭대기. 백 척이나 되는 장대 끝에 매달려 있을 정도로 위급하고 어려운 상황",
+    "level": 3
+  },
+  {
+    "word": "좌고우면",
+    "chineseCharacter": "左顧右眄",
+    "meaning": "왼쪽을 돌아보고 오른쪽을 곁눈질함. 즉 결정을 내리지 못하고 이것저것 눈치만 살피는 모습.",
+    "level": 2
+  },
+  {
+    "word": "막역지우",
+    "chineseCharacter": "莫逆之友",
+    "meaning": "서로 거스르지 않는 친구라는 뜻으로, 아무 허물없이 친한 친구를 가리키는 말.",
+    "level": 2
+  },
+  {
+    "word": "절치부심",
+    "chineseCharacter": "切齒腐心",
+    "meaning": "이를 갈고 마음을 썩이다. 분하거나 억울한 마음이 사무쳐 이를 딱딱거리며 갈고 속을 썩이다.",
+    "level": 2
+  },
+  {
+    "word": "자화자찬",
+    "chineseCharacter": "自畵自讚",
+    "meaning": "자기가 그린 그림을 자기가 칭찬함. 자기가 한 일을 스스로가 칭찬함.",
+    "level": 2
+  },
+  {
+    "word": "감언이설",
+    "chineseCharacter": "甘言利說",
+    "meaning": "입에 발린 말과 이익을 약속하는 말. 즉 상대방을 현혹시키기 위해서 꾸민 달콤한 말과 이득을  내세워 속이는 말.",
+    "level": 1
+  },
+  {
+    "word": "임기응변",
+    "chineseCharacter": "臨機應變",
+    "meaning": "'어떤 일을 당하여 적절하게 반응하고 변통하다'라는 뜻으로, 그때그때의 형편에 따라 알맞게  일을 처리하는 것",
+    "level": 2
+  },
+  {
+    "word": "대경실색",
+    "chineseCharacter": "大驚失色",
+    "meaning": "너무 크게 놀라 얼굴이 하얗게 변하는 모습.",
+    "level": 2
+  },
+  {
+    "word": "전전긍긍",
+    "chineseCharacter": "戰戰兢兢",
+    "meaning": "겁을 먹고 벌벌 떨며 몸을 움츠린다는 뜻으로, 위기감에 절박해진 심정",
+    "level": 2
+  },
+  {
+    "word": "오매불망",
+    "chineseCharacter": "寤寐不忘",
+    "meaning": "'자나 깨나 잊지 못하다'라는 뜻으로, 사랑하는 사람을 그리워하여 잠 못 들거나 근심 또는 생 각이 많아 잠 못 드는 것",
+    "level": 2
+  },
+  {
+    "word": "조변석개",
+    "chineseCharacter": "朝變夕改",
+    "meaning": "아침에 변하고 저녁에 고친다. 아침에 내린 명령이나 법령을 저녁에 다시 고치듯, 계획이나 결정 따위를 일관성이 없이 자주 뜯어고치는 것",
+    "level": 3
+  },
+  {
+    "word": "풍수지탄",
+    "chineseCharacter": "風樹之嘆",
+    "meaning": "바람이 나무를 흔들 듯, 자식이 효도하려 할 때 부모는 이미 죽어 효행을 다하지 못하는 슬픔",
+    "level": 3
+  },
+  {
+    "word": "각골통한",
+    "chineseCharacter": "刻骨痛恨",
+    "meaning": "뼈에 새겨 놓을 만큼 잊을 수 없고 고통스러운 원한",
+    "level": 2
+  },
+  {
+    "word": "구사일생",
+    "chineseCharacter": "九死一生",
+    "meaning": "구사일생 죽을 고비를 여러 차례 넘기고 겨우 살아남을 이르는 말.",
+    "level": 1
+  },
+  {
+    "word": "사필귀정",
+    "chineseCharacter": "事必歸正",
+    "meaning": "무슨 일이든 결국 옳은 이치대로 돌아간다는 뜻",
+    "level": 2
+  },
+  {
+    "word": "순망치한",
+    "chineseCharacter": "脣亡齒寒",
+    "meaning": "입술이 없어지면 이가 시림. 즉 서로 의지하고 있어 한쪽이 사라지면 다른 쪽도 안전을 확보하 기 어려운 관계",
+    "level": 2
+  },
+  {
+    "word": "연목구어",
+    "chineseCharacter": "緣木求魚",
+    "meaning": "'나무에 올라 물고기를 구한다.'는 뜻으로, 불가능한 일을 무리하게 하려 함",
+    "level": 3
+  },
+  {
+    "word": "좌불안석",
+    "chineseCharacter": "坐不安席",
+    "meaning": "마음이 불안하거나 걱정스러워서 한군데에 가만히 앉아 있지 못하고 안절부절못하는 모양",
+    "level": 2
+  },
+  {
+    "word": "간담상조",
+    "chineseCharacter": "肝膽相照",
+    "meaning": "간과 쓸개를 서로 비추어 봄. 즉 서로 마음속을 드러내며 나누는 우정",
+    "level": 2
+  },
+  {
+    "word": "전전반측",
+    "chineseCharacter": "輾轉反側",
+    "meaning": "수레바퀴가 한없이 돌며 옆으로 뒤척인다는 뜻으로, 근심과 걱정으로 잠을 이루지 못함",
+    "level": 2
+  },
+  {
+    "word": "절치부심",
+    "chineseCharacter": "切齒腐心",
+    "meaning": "이를 갈고 마음을 썩히다는 뜻으로, 대단히 분하게 여기고 마음을 썩임",
+    "level": 2
+  },
+  {
+    "word": "혼비백산",
+    "chineseCharacter": "魂飛魄散",
+    "meaning": "넋이 날아가고 넋이 흩어지다라는 뜻으로, 몹시 놀라 어찌할 바를 모름",
+    "level": 2
+  },
+  {
+    "word": "경거망동",
+    "chineseCharacter": "輕擧妄動",
+    "meaning": "가벼운 거동과 망령된 행동. 깊이 생각해 보지도 않고 경솔하게 행동",
+    "level": 2
+  },
+  {
+    "word": "동분서주",
+    "chineseCharacter": "東奔西走",
+    "meaning": "동쪽으로 뛰고 서쪽으로 뛴다는 뜻으로, 이리저리 몹시 바쁘게 돌아다님",
+    "level": 2
+  },
+  {
+    "word": "분기탱천",
+    "chineseCharacter": "憤氣�天",
+    "meaning": "분한 마음이 하늘을 찌를 듯 격렬하게 북받쳐 오름.",
+    "level": 2
+  },
+  {
+    "word": "적반하장",
+    "chineseCharacter": "賊反荷杖",
+    "meaning": "도둑이 도리어 매를 든다는 뜻. 잘못한 사람이 도리어 잘한 사람을 나무라는 경우를 이르는 말",
+    "level": 2
+  },
+  {
+    "word": "내우외환",
+    "chineseCharacter": "內憂外患",
+    "meaning": "안으로는 걱정이요, 밖으로는 근심. 즉 사방에 온통 걱정거리뿐임",
+    "level": 2
+  },
+  {
+    "word": "맥수지탄",
+    "chineseCharacter": "麥秀之嘆",
+    "meaning": "기자가 은나라가 망한 후에도 보리만은 잘 자람을 보고 한탄했다는 고사에서 나온 말로, 고국 의 멸망을 한탄함을 이름.",
+    "level": 2
+  },
+  {
+    "word": "사생결단",
+    "chineseCharacter": "死生決斷",
+    "meaning": "죽고 사는 것을 가리지 않고 끝장을 내려고 덤벼듦",
+    "level": 2
+  },
+  {
+    "word": "생사기로",
+    "chineseCharacter": "生死岐路",
+    "meaning": "사느냐 죽느냐 하는 갈림길.",
+    "level": 2
+  },
+  {
+    "word": "중언부언",
+    "chineseCharacter": "重言復言",
+    "meaning": "같은 말을 계속 되풀이함",
+    "level": 2
+  },
+  {
+    "word": "중구난방",
+    "chineseCharacter": "衆口難防",
+    "meaning": "여러 사람의 입을 막기 어렵다는 뜻으로, 막기 어려울 정도로 여럿이 마구 지껄임",
+    "level": 2
+  },
+  {
+    "word": "이실직고",
+    "chineseCharacter": "以實直告",
+    "meaning": "사실 그대로 알림.",
+    "level": 2
+  },
+  {
+    "word": "어불성설",
+    "chineseCharacter": "語不成說",
+    "meaning": "말이 이치를 이루지 못하다. 즉, 말이 전혀 사리에 맞지 않음",
+    "level": 2
+  },
+  {
+    "word": "유구무언",
+    "chineseCharacter": "有口無言",
+    "meaning": "입은 있으나 할 말이 없음. 잘못이 분명해 변명하거나 해명할 길이 없음.",
+    "level": 1
+  },
+  {
+    "word": "일구이언",
+    "chineseCharacter": "一口二言",
+    "meaning": "한 입으로 두 말을 함. 즉 말을 이렇게 했다 저렇게 했다 일관성이 없는 것.",
+    "level": 2
+  },
+  {
+    "word": "중구난방",
+    "chineseCharacter": "衆口難防",
+    "meaning": "여러 사람의 입을 막기 어렵다는 뜻으로, 막기 어려울 정도로 여럿이 마구 지껄임",
+    "level": 2
+  },
+  {
+    "word": "횡설수설",
+    "chineseCharacter": "橫說竪說",
+    "meaning": "가로로 말했다 세로로 말함. 조리가 없는 말을 되는대로 이러쿵저러쿵 지껄임.",
+    "level": 2
+  },
+  {
+    "word": "각골통한",
+    "chineseCharacter": "刻骨痛恨",
+    "meaning": "뼈에 새겨 놓을 만큼 잊을 수 없고 고통스러운 원한.",
+    "level": 2
+  },
+  {
+    "word": "노심초사",
+    "chineseCharacter": "勞心焦思",
+    "meaning": "몹시 마음을 쓰며 애를 태움.",
+    "level": 2
+  },
+  {
+    "word": "전전반측",
+    "chineseCharacter": "輾轉反側",
+    "meaning": "근심과 걱정으로 잠을 이루지 못함을 비유",
+    "level": 2
+  },
+  {
+    "word": "방약무인",
+    "chineseCharacter": "傍若無人",
+    "meaning": "곁에 사람이 없는 것처럼 행동함. 즉 주위 사람을 의식하지 않고 제멋대로 행동하는 것.",
+    "level": 2
+  },
+  {
+    "word": "우후죽순",
+    "chineseCharacter": "雨後竹筍",
+    "meaning": "비가 온 뒤에 솟는 죽순이라는 뜻으로, 어떤 일이 일시에 많이 일어남을 이르는 말.",
+    "level": 1
+  },
+  {
+    "word": "혼비백산",
+    "chineseCharacter": "魂飛魄散",
+    "meaning": "넋이 날아가고 넋이 흩어지다라는 뜻으로, 몹시 놀라 어찌할 바를 모름",
+    "level": 2
+  },
+  {
+    "word": "비육지탄",
+    "chineseCharacter": "�肉之歎",
+    "meaning": "자기의 뜻을 펴지 못하고 허송세월하는 것을 한탄하는 것",
+    "level": 2
+  },
+  {
+    "word": "견문발검",
+    "chineseCharacter": "見蚊拔劍",
+    "meaning": "작은 일에 지나치게 큰 대책을 세움 혹은 조그만 일에 화를 내는 소견이 좁은 사람을 이름",
+    "level": 2
+  },
+  {
+    "word": "명약관화",
+    "chineseCharacter": "明若觀火",
+    "meaning": "불을 보는 것 같이 밝게 보인다는 뜻으로 더 말할 나위 없이 명백함",
+    "level": 2
+  },
+  {
+    "word": "일촉즉발",
+    "chineseCharacter": "一觸卽發",
+    "meaning": "한 번 닿기만 하여도 곧 폭발한다는 뜻으로 조그만 자극에도 큰 일이 벌어질 것 같은 아슬아슬 한 상태를 이르는 말",
+    "level": 2
+  },
+  {
+    "word": "장유유서",
+    "chineseCharacter": "長幼有序",
+    "meaning": "어른과 어린이 사이에는 순서와 질서가 있음",
+    "level": 2
+  },
+  {
+    "word": "타산지석",
+    "chineseCharacter": "他山之石",
+    "meaning": "다른 사람의 하찮은 언행이라도 자기의 지덕을 닦는 데 도움이 됨을 비유",
+    "level": 2
+  },
+  {
+    "word": "십벌지목",
+    "chineseCharacter": "十伐之木",
+    "meaning": "열 번 찍어 아니 넘어가는 나무가 없다는 뜻",
+    "level": 2
+  },
+  {
+    "word": "어불성설",
+    "chineseCharacter": "語不成說",
+    "meaning": "말이 이치를 이루지 못하다. 즉, 말이 전혀 사리에 맞지 않음",
+    "level": 2
+  },
+  {
+    "word": "아전인수",
+    "chineseCharacter": "我田引水",
+    "meaning": "자기의 이익을 먼저 생각하고 행동함 또는 억지로 자기에게 이롭도록 꾀함",
+    "level": 2
+  },
+  {
+    "word": "결자해지",
+    "chineseCharacter": "結者解之",
+    "meaning": "일을 맺은 사람이 풀어야 한다는 뜻으로 일을 저지른 사람이 그 일을 해결해야 한다는 말",
+    "level": 2
+  },
+  {
+    "word": "적수공권",
+    "chineseCharacter": "赤手空拳",
+    "meaning": "맨손과 맨주먹이라는 뜻으로 곧 아무것도 가진 것이 없음",
+    "level": 2
+  },
+  {
+    "word": "금석맹약",
+    "chineseCharacter": "金石盟約",
+    "meaning": "쇠와 돌같이 굳게 맹세하여 맺은 약속",
+    "level": 3
+  },
+  {
+    "word": "멸사봉공",
+    "chineseCharacter": "滅私奉公",
+    "meaning": "사를 버리고 공을 위하여 힘써 일함",
+    "level": 2
+  },
+  {
+    "word": "수불석권",
+    "chineseCharacter": "手不釋卷",
+    "meaning": "손에서 책을 놓지 않는다는 뜻으로 늘 책을 가까이하여 학문을 열심히 함",
+    "level": 3
+  },
+  {
+    "word": "격세지감",
+    "chineseCharacter": "隔世之感",
+    "meaning": "아주 바뀐 다른 세상이 된 것 같은 느낌 또는 딴 세대와 같이 많은 변화가 있었음을 비유",
+    "level": 2
+  },
+  {
+    "word": "와신상담",
+    "chineseCharacter": "臥薪嘗膽",
+    "meaning": "섶에 눕고 쓸개를 씹는다는 뜻으로 원수를 갚으려고 온갖 괴로움을 참고 견딤을 이르는 말",
+    "level": 3
+  },
+  {
+    "word": "간담상조",
+    "chineseCharacter": "肝膽相照",
+    "meaning": "간과 쓸개를 서로 비추어 봄. 즉 서로 마음속을 드러내며 나누는 우정",
+    "level": 2
+  },
+  {
+    "word": "풍비박산",
+    "chineseCharacter": "風飛雹散",
+    "meaning": "바람이 불어 우박져 버림이 이리저리 흩어진다는 뜻으로 엉망으로 깨어져 사방으로 흩어짐",
+    "level": 3
+  },
+  {
+    "word": "선공후사",
+    "chineseCharacter": "先公後私",
+    "meaning": "사보다 공을 앞세움이란 뜻으로 사사로운 일이나 이익보다 공익을 앞세움",
+    "level": 2
+  },
+  {
+    "word": "구밀복검",
+    "chineseCharacter": "口蜜腹劍",
+    "meaning": "입으로는 달콤함을 말하나 뱃속에는 칼을 감추고 있다는 뜻. 겉으로는 친절하나 마음속은 음 흉한 것",
+    "level": 2
+  },
+  {
+    "word": "흥진비래",
+    "chineseCharacter": "興盡悲來",
+    "meaning": "즐거운 일이 지나가면 슬픈 일이 닥쳐온다는 뜻",
+    "level": 2
+  },
+  {
+    "word": "오월동주",
+    "chineseCharacter": "吳越同舟",
+    "meaning": "서로 미워하면서도 공통의 어려움이나 이해에 대해서는 협력하는 경우를 비유하는 말",
+    "level": 2
+  },
+  {
+    "word": "거안제미",
+    "chineseCharacter": "擧案齊眉",
+    "meaning": "‘밥상을 눈썹 높이로 들어 공손히 남편 앞에 가지고 간다’는 뜻으로, 남편을 깍듯이 공경함",
+    "level": 2
+  },
+  {
+    "word": "고대광실",
+    "chineseCharacter": "高臺廣室",
+    "meaning": "‘높은 누대와 넓은 집’이라는 뜻으로, 크고도 좋은 집을 이르는 말",
+    "level": 2
+  },
+  {
+    "word": "금과옥조",
+    "chineseCharacter": "金科玉條",
+    "meaning": "소중히 여기고 지켜야 할 규칙이나 교훈",
+    "level": 2
+  },
+  {
+    "word": "기사회생",
+    "chineseCharacter": "起死回生",
+    "meaning": "죽거나 졌다고 생각하는 순간 다시 힘을 내 새롭게 일어서는 모습",
+    "level": 2
+  },
+  {
+    "word": "독수공방",
+    "chineseCharacter": "獨守空房",
+    "meaning": "부부가 서로 별거하여 여자가 남자 없이 혼자 지냄을 뜻함",
+    "level": 2
+  },
+  {
+    "word": "만시지탄",
+    "chineseCharacter": "晩時之歎",
+    "meaning": "때늦은 탄식. 이미 기회를 잃은 후 한탄하는 모습.",
+    "level": 2
+  },
+  {
+    "word": "명재경각",
+    "chineseCharacter": "命在頃刻",
+    "meaning": "목숨이 경각에 달려 있음. 즉 목숨이 눈 깜짝할 동안에 사라질 수도 있는 위험한 상황.",
+    "level": 3
+  },
+  {
+    "word": "백중지세",
+    "chineseCharacter": "伯仲之勢",
+    "meaning": "우열의 차이가 없이 엇비슷함을 이르는 말",
+    "level": 2
+  },
+  {
+    "word": "살신성인",
+    "chineseCharacter": "殺身成仁",
+    "meaning": "자기의 몸을 희생하여 옳은 도리를 행함",
+    "level": 2
+  },
+  {
+    "word": "수간모옥",
+    "chineseCharacter": "數間茅屋",
+    "meaning": "두서너 칸밖에 안 되는 띠집. 오두막집",
+    "level": 2
+  },
+  {
+    "word": "안빈낙도",
+    "chineseCharacter": "安貧樂道",
+    "meaning": "구차하고 궁색하면서도 그것에 구속되지 않고 평안하게 즐기는 마음으로 살아감, 가난에 구 애받지 않고 도를 즐김",
+    "level": 2
+  },
+  {
+    "word": "우공이산",
+    "chineseCharacter": "愚公移山",
+    "meaning": "남이 보기엔 어리석은 일처럼 보이지만 한 가지 일을 끝까지 밀고 나가면 언젠가는 목적을 달 성할 수 있다는 뜻",
+    "level": 2
+  },
+  {
+    "word": "일편단심",
+    "chineseCharacter": "一片丹心",
+    "meaning": "한 조각의 붉은 마음. 즉 결코 변하지 않을 충성되고 참된 마음.",
+    "level": 1
+  },
+  {
+    "word": "임기응변",
+    "chineseCharacter": "臨機應變",
+    "meaning": "'어떤 일을 당하여 적절하게 반응하고 변통하다'라는 뜻으로, 그때그때의 형편에 따라 알맞게  일을 처리하는 것",
+    "level": 2
+  },
+  {
+    "word": "자강불식",
+    "chineseCharacter": "自强不息",
+    "meaning": "스스로 힘을 쓰고 몸과 마음을 가다듬어 쉬지 아니함",
+    "level": 2
+  },
+  {
+    "word": "자승자박",
+    "chineseCharacter": "自繩自縛",
+    "meaning": "자신이 만든 줄로 제 몸을 스스로 묶는다는 뜻으로, 자기가 한 말과 행동에 자신이 구속되어 어려움을 겪는 것",
+    "level": 2
+  },
+  {
+    "word": "자업자득",
+    "chineseCharacter": "自業自得",
+    "meaning": "자신이 저지른 일의 결과를 자신이 감수함",
+    "level": 1
+  },
+  {
+    "word": "조삼모사",
+    "chineseCharacter": "朝三暮四",
+    "meaning": "아침에 세 개, 저녁에 네 개라는 뜻으로, 당장의 차이에 신경 쓰지만 결과는 매한가지라는 뜻",
+    "level": 1
+  },
+  {
+    "word": "지인지감",
+    "chineseCharacter": "知人之鑑",
+    "meaning": "사람을 잘 알아보는 능력",
+    "level": 3
+  },
+  {
+    "word": "천신만고",
+    "chineseCharacter": "千辛萬苦",
+    "meaning": "온갖 어려운 고비를 다 겪으며 심하게 고생함을 이르는 말",
+    "level": 2
+  },
+  {
+    "word": "천촌만락",
+    "chineseCharacter": "千村萬落",
+    "meaning": "수많은 촌락",
+    "level": 2
+  },
+  {
+    "word": "풍월주인",
+    "chineseCharacter": "風月主人",
+    "meaning": "맑은 바람과 밝은 달 등의 자연을 즐기는 사람을 이르는 말",
+    "level": 2
+  },
+  {
+    "word": "형우제공",
+    "chineseCharacter": "兄友弟恭",
+    "meaning": "형제끼리 우애가 깊음",
+    "level": 2
+  }
+]
