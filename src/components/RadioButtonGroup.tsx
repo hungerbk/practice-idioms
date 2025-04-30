@@ -24,11 +24,26 @@ export const StyledLabel = styled.label<{ checked?: boolean }>`
   }
 `;
 
+const levels = ["easy", "normal", "hard", "all"] as const;
+
+// interface RadioButtonProps {
+//   level: string;
+//   label: string;
+// }
+
+// const RadioButton: React.FC<RadioButtonProps> = ({ level, label, ...props }) => {
+//   return (
+//     <StyledLabel key={label} {...props}>
+//       <input type="radio" name="level" value={level} className="a11y-hidden" />
+//       {label}
+//     </StyledLabel>
+//   );
+// };
 export const RadioButtonGroup = () => {
   const [selected, setSelected] = useState("easy");
   return (
     <RadioGroup role="radiogroup" aria-label="난이도 선택">
-      {["easy", "normal", "hard", "all"].map((level) => (
+      {levels.map((level) => (
         <StyledLabel key={level} checked={selected === level}>
           <input type="radio" name="level" value={level} className="a11y-hidden" checked={selected === level} onChange={() => setSelected(level)} />
           {level === "easy" && "초급"}
